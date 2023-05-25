@@ -48,9 +48,7 @@ Above and below the list, there will be buttons to open an "Add Course" form. Th
 To compile the project:
 1. Clone the repository to your local machine.
 2. Make sure you have Node.js installed.
-3. Open the command prompt or terminal and navigate to the
-
- project directory.
+3. Open the command prompt or terminal and navigate to the project directory.
 4. Run the command `npm install` to install the required dependencies.
 5. Start the server by running `npm start`.
 6. Access the application through your web browser at the specified URL (e.g., `http://localhost:3000`).
