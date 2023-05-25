@@ -1,5 +1,5 @@
 # REST-API-COURSES
-## Exercise #3 Courses Service
+## Courses Service
 
 This exercise is about building a REST service called CoursesService that manages information about courses and the grades of students participating in them. The service stores course lists and the details of students in each course, along with their grades. It allows the system administrator to view the list of courses and the students enrolled in each course, along with their grades.
 
